@@ -1,0 +1,4 @@
+{
+  "oAuth2ClientId": "675157344555892746",
+  "oAuth2RedirectUri": "http://localhost:4200/torii/redirect.html"
+}
